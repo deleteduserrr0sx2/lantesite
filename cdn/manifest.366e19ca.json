@@ -1,0 +1,11 @@
+{
+  "name": "Lithium",
+  "short_name": "Matthew_Cash",
+  "description": "Lithium Client Website",
+  "icons": [],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#191a1b",
+  "theme_color": "#dab848",
+  "lang": "en"
+}
